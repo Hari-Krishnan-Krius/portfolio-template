@@ -10,7 +10,7 @@ A simple portfolio template for Computer Science and Cybersecurity professionals
 
 1.	Create a repository
 2.	Clone into local
-3.	Download the source code as zip from https://github.com/Krius2023/duerme-portfolio-template
+3.	Download the source code as zip from https://github.com/Hari-Krishnan-Krius/portfolio-template
 4.	Extract it
 5.	Copy and paste entire source into your cloned local folder
 Inside the path of the clone folder
@@ -21,8 +21,8 @@ Inside the path of the clone folder
 10.	Change hompage property in package.json file
 Note: 
 Format: https://username.github.io/reponame
-Sample: https://krius2023.github.io/duerme-portfolio-template/
+Sample: https://hari-krishnan-krius.github.io/portfolio-template/
 11.	Push the complete changes to your main branch now
-12.	Run – git run deploy
+12.	Run – npm run deploy
 13.	Now go to pages section of the repo settings
 14.	You can view the page through the link is provided (homepage link)
