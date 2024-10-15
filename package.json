@@ -16,7 +16,7 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^3.1.1"
   },
-  "homepage": "https://github.com/Hari-Krishnan-Krius/portfolio-template/",
+  "homepage": "https://github.com/Hari-Krishnan-Krius/duerme-portfolio-template/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
